@@ -1,0 +1,17 @@
+name = "Acinetobacter_baumannii_OC"
+keyword = "ab_o"
+genbank = "Acinetobacter_baumannii_OC.gbk"
+organism = "Acinetobacter baumannii"
+taxon = 470
+antigen = "Outer-core-lipopolysaccharide"
+pathway = "Step-by-Step Cytoplasmic Assembly"
+prefix = "OC"
+version = "0.0.0"
+id_threshold = 85.0
+doi = [ "10.1371/journal.pone.0107833", "10.1099/mgen.0.001042",]
+owner = "tomdstanton"
+repo = "A_baumannii_Surface_Antigen_Loci"
+branch = "main"
+
+[contact]
+"Johanna Kenyon" = "j.kenyon@griffith.edu.au"
