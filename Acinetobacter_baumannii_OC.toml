@@ -6,10 +6,10 @@ taxon = 470
 antigen = "Outer-core-lipopolysaccharide"
 pathway = "Step-by-Step Cytoplasmic Assembly"
 prefix = "OC"
-version = "0.0.1"
+version = "3.2.1"
 id_threshold = 85.0
 doi = [ "10.1371/journal.pone.0107833", "10.1099/mgen.0.001042",]
-owner = "tomdstanton"
+owner = "johannajkenyon"
 repo = "A_baumannii_Surface_Antigen_Loci"
 branch = "main"
 
