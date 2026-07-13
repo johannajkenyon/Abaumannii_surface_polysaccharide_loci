@@ -6,10 +6,10 @@ taxon = 470
 antigen = "Capsular polysaccharide"
 pathway = "Wzx/Wzy-dependent"
 prefix = "K"
-version = "0.0.1"
+version = "3.2.1"
 id_threshold = 85.0
 doi = [ "10.1099/mgen.0.000878",]
-owner = "tomdstanton"
+owner = "johannajkenyon"
 repo = "A_baumannii_Surface_Antigen_Loci"
 branch = "main"
 
