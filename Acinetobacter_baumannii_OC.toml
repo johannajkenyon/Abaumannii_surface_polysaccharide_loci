@@ -10,7 +10,7 @@ version = "3.2.2"
 id_threshold = 85.0
 doi = [ "10.1371/journal.pone.0107833", "10.1099/mgen.0.001042",]
 owner = "johannajkenyon"
-repo = "A_baumannii_Surface_Antigen_Loci"
+repo = "Acinetobacter_baumannii_surface_polysaccharide_locus_databases"
 branch = "main"
 
 [contact]
